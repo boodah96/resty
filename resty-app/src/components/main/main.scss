@@ -1,0 +1,22 @@
+  main {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      margin-top: 30px;
+      justify-content: center;
+      div {
+          align-self: center;
+          margin: 10px;
+      }
+      section {
+          align-self: center;
+          width: 60%;
+          background-color: rgba(175, 172, 172, 0.274);
+          height: 500px;
+          margin: 20px;
+          border: 2px solid rgb(58, 56, 58);
+          p {
+              padding: 10px;
+          }
+      }
+  }
