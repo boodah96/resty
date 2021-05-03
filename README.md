@@ -1,3 +1,10 @@
+# resty
+
+[netlify](https://resty-boodah96.netlify.app/)
+
+- uml diagram
+![uml](./lab26.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
