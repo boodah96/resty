@@ -1,6 +1,6 @@
 # resty
 
-[netlify](https://epic-euler-04c3f8.netlify.app/)
-- netlify doesn't deployed
+[netlify](https://resty-boodah96.netlify.app/)
+
 - uml diagram
 ![uml](./lab26.PNG)
