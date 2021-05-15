@@ -4,13 +4,15 @@ html {
 }
 
 footer {
+    position: absolute;
     height: 60px;
+    line-height: 60px;
     background-color: rgb(146, 140, 140);
     width: 100%;
+    bottom: 0;
     h1 {
         padding-left: 30px;
         color: black;
-        line-height: 60px;
         font-size: 20px;
     }
 }
